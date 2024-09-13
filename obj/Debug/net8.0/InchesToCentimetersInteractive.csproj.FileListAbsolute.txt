@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/bin/Debug/net8.0/InchesToCentimetersInteractive
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/bin/Debug/net8.0/InchesToCentimetersInteractive.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/bin/Debug/net8.0/InchesToCentimetersInteractive.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/bin/Debug/net8.0/InchesToCentimetersInteractive.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/bin/Debug/net8.0/InchesToCentimetersInteractive.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/refint/InchesToCentimetersInteractive.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/InchesToCentimetersInteractive.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/InchesToCentimetersInteractive/obj/Debug/net8.0/ref/InchesToCentimetersInteractive.dll
